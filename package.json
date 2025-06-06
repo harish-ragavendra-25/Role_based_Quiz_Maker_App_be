@@ -1,0 +1,25 @@
+{
+  "name": "role_based_quiz_maker_app_be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": { 
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harish-ragavendra-25/Role_based_Quiz_Maker_App_be.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harish-ragavendra-25/Role_based_Quiz_Maker_App_be/issues"
+  },
+  "homepage": "https://github.com/harish-ragavendra-25/Role_based_Quiz_Maker_App_be#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
